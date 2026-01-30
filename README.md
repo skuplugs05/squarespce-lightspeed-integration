@@ -1,2 +1,2 @@
-# squarespce-lightspeed-integration
-Integrate Lightspeed POS with Squarespace using SKUPlugs to sync products, inventory, and orders seamlessly in real time.
+# Squarespace Lightspeed Integration
+Lightspeed Squarespace integration helps retailers connect their in-store POS with an online store for smoother operations. With SKUPlugs, businesses can easily sync products, inventory, and orders between Lightspeed POS and Squarespace in real time. This integration eliminates manual updates, reduces inventory errors, and improves order management. SKUPlugs provides a secure, scalable solution that enables retailers to manage both online and offline sales from one centralized system, helping businesses grow efficiently.
